@@ -1,0 +1,63 @@
+Schema YUBK Management Office
+Project ini dibuat untuk mensimulasikan bagaimana bila kegiatan YUBK di buat dalam program terminal
+
+HR
+- manajemen akun calon pelajar
+  Fitur ini di buat untuk mengelola akun calon pelajar agar dapat dibuatkan akun untuk melihat jadwal interview
+- manajemen akun pelajar
+  Untuk memudahkan mengelola akun dari pelajar yang sudah aktif
+- manajemen akun community officer
+  Untuk mengelola semua akun community officer bila perlu adanya pengurangan, perubahan atau penambaan akun
+- manajemen akun trainer
+  Mengelola akun dari semua trainer yang ada
+- pembuatan jadwal interview
+  Pengelolaan jadwal interview untuk nantinya di lihat oleh calon pelajar
+- penyelesaian jadwal interview
+  Mengelola jadwal interview yang sudah selesai
+- penerimaan student
+  Menerima calon pelajar dan mengelolanya agar masuk ke daftar pelajar aktif
+- management absensi
+  Untuk memudahkan melihat catatan absensi entah itu semua atau berdasarkan waktu
+- melakukan absensi
+  absensi bagi HR
+- mengelola akun HR
+  melakukan penambahan atau pengurangan HR
+- menampilkan jadwal workshop
+- menampilkan jadwal belajar
+
+CO
+- pembuatan jadwal workshop
+- edit jadwal workshop
+- penyelesaian jadwal workshop
+- pengumuman jadwal workshop
+- melakukan absensi
+
+Trainer
+- pembuatan jadwal belajar
+- edit jadwal belajae
+- penyelesaian jadwal belajar
+- pengumuman jadwal belajar
+- melakukan absensi
+
+Staditek student
+- melihat jadwal belajar
+- melihat jadwal workshop
+- melakukan absensi
+
+calon student
+- melihat jadwal interview
+
+All kecuali calon student
+- chat sesama akun
+
+Item
+- management item
+- pemakaian item (workshop)
+- pengisian stok item
+
+Absensi
+- melihat semua absensi
+- melihat absensi berdasarkan tanggal
+
+Tempat
+- menambah, mengubah serta menghapus tempat
